@@ -19,7 +19,7 @@ Last compiled on: April 27, 2020.
 
 <hr>
 
-## *Check if macro variable is blank;*
+## /* *Check if macro variable is blank;* */
 
 ``` r
 ===============================================          ======  */
@@ -36,7 +36,7 @@ Check if macro variable is blank;
 
 <hr>
 
-## *Is a dataset empty?;*
+## /* *Is a dataset empty?* */
 
 ``` r
 ===============================================          ======  */
@@ -65,7 +65,7 @@ Is a dataset empty?
 
 <hr>
 
-## *Checking for the existence of a Dataset;*
+## /*Checking for the existence of a Dataset*/
 
 ``` r
 ===============================================          ======  */
