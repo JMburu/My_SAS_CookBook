@@ -1,6 +1,6 @@
 ---
 title: "My SAS CookBook."
-author: "James Wanja."
+author: "James .M. Wanja."
 date: 'Last compiled on: `r format(Sys.Date(), format="%B %d, %Y")`.'
 output: github_document
 header-includes:
