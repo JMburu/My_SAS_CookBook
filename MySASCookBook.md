@@ -1,6 +1,6 @@
 My SAS CookBook.
 ================
-James Wanja.
+James .M. Wanja.
 Last compiled on: April 28, 2020.
 
 
